@@ -4,7 +4,7 @@
 ### Usage
 Программа спросит у вас текущую температуру, и подскажет что надеть.
 ```
-bundle intsall && bundle exec ruby main.rb
+bundle install && bundle exec ruby main.rb
 ```
 
 > ```
